@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "esModuleInterop": true,
+      "moduleResolution": "node",
+      "module": "CommonJS"
+    },
+    "include": ["./**/*.ts"],
+    "ts-node": {
+      "esm": true
+  },
+  }
